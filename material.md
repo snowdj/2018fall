@@ -76,3 +76,63 @@ Lecture 7: **From Entropy to Bayes**
 Lab 4: **Bayesian Quantities in the Globe Model**
 
 [Material](lectures/lab4.html)
+
+---
+
+### Week 5
+
+Lecture 8: **Bayes and Sampling**
+
+[Slides and Notes](lectures/lecture8.html)
+
+Lecture 9: **Bayes and Sampling**
+
+[Slides and Notes](lectures/lecture9.html)
+
+Lab 5: **Logistic Regression and Sundry Bayesian**
+
+[Material](lectures/lab5.html)
+
+---
+
+### Week 6
+
+Lecture 10: **Sampling and Gradient Descent**
+
+[Slides and Notes](lectures/lecture10.html)
+
+Lab 6: **Sampling and PyTorch**
+
+[Material](lectures/lab6.html)
+
+---
+
+### Week 7
+
+Lecture 11: **Gradient Descent and Neural Networks**
+
+[Slides and Notes](lectures/lecture11.html)
+
+Lecture 12: **Non Linear Approximation to Classification**
+
+[Slides and Notes](lectures/lecture12.html)
+
+Lab 7: **PyTorch**
+
+To be linked
+
+---
+
+### Week 8
+
+Lecture 13: **Classification, Mixtures, and EM**
+
+[Slides and Notes](lectures/lecture13.html)
+
+Lecture 14: **EM and Hierarchcal models**
+
+[Slides and Notes](lectures/lecture14.html)
+
+Lab 8: **EM and Hierarchicals**
+
+[Material](lectures/lab8.html)

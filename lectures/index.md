@@ -15,3 +15,14 @@ layout: "default"
 - [Lecture 6](lecture6.html): Risk and Information
 - [Lecture 7](lecture7.html): From Entropy to Bayes
 - [Lab 4](lab4.html): Bayesian Quantities in the Globe Model
+- [Lecture 8](lecture8.html): Bayes and Sampling
+- [Lecture 9](lecture9.html): Bayes and Sampling
+- [Lab 5](lab5.html): Logistic Regression and Sundry Bayesian
+- [Lecture 10](lecture10.html): Sampling and Gradient Descent
+- [Lab 6](lab6.html): Sampling and PyTorch
+- [Lecture 11](lecture11.html): Gradient Descent and Neural Networks
+- [Lecture 12](lecture12.html): Non Linear Approximation to Classification
+- [Lab 7] still to come
+- [Lecture 13](lecture13.html): Classification, Mixtures, and EM
+- [Lecture 14](lecture14.html): EM and Hierarchcal models
+- [Lab 8](lab8.html): EM and Hierarchicals
