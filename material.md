@@ -136,3 +136,27 @@ Lecture 14: **EM and Hierarchcal models**
 Lab 8: **EM and Hierarchicals**
 
 [Material](lectures/lab8.html)
+
+---
+
+### Week 9
+
+Lecture 15: **MCMC**
+
+[Slides and Notes](lectures/lecture15.html)
+
+Lecture 16: **MCMC and Gibbs**
+
+[Slides and Notes](lectures/lecture16.html)
+
+Lab9: **Sampling and Pymc3**
+
+[Material](lectures/lab9.html)
+
+---
+
+### Week10 
+
+Lecture 17: **Gibbs, Augmentation, and HMC**
+
+[Slides and Notes](lectures/lecture17.html)
